@@ -11,33 +11,30 @@ Design reasoning and the research behind each decision: [PLAN.md](PLAN.md), [RES
 
 ## Architecture
 
-```
-jobs.json ─▶ run_jobs.py ────────────────────────────────────────────────────────────────┐
-             │  (per job × language; toggles resolved from profile ← manifest ← job)       │
-             ▼                                                                              │
-   ┌─ content/rms_fetch.py ──▶ RMS Supabase REST  (summaries | bites | journeys, by id)    │
-   │  content/kitab_loader.py ─ strip markdown, NFC-normalize, split into sections         │
-   ▼                                                                                        │
-   prepare.py                                                                               │
-   │   normalization/   detectors ▶ cache ▶ Gemini (misses only) ▶ offset-safe substitute  │  [normalize]
-   │   pronunciation/   dictionary alias respellings                                        │  [pronunciation]
-   │   chunking/        segmenter — 250–900 char chunks at sentence/para bounds             │
-   ▼                                                                                        │
-   direction/director.py — Gemini structured "performance direction" (emotion tags,        │  [direction]
-   │                        breath points); words never changed (validated)                 │
-   ▼                                                                                        │
-   production.py (orchestrator)                                                             │
-   │   generation/generator.py + overlap.py ─ v3 via tts/client.py; lead-in + look-ahead,  │  [overlap]
-   │       cut at real silence; net.py retries; manifest + per-chunk versions               │
-   │   qc/ gate ─ Scribe (STT) + forced-alignment + speaker-similarity + join-pitch checks  │  [qc_assess]
-   │       └─ auto-regenerate failing / drifting chunks (max 2)                              │  [qc_fix]
-   │   assembly/joiner.py ─ trim, pace/loudness match, room-tone gaps, glue master, ACX     │
-   ▼                                                                                        │
-   output/<content_type>/<lang>/<id>_<ddmmyyHHMMSS>_<slug>.mp3  ◀──────────────────────────┘
+```mermaid
+flowchart TD
+  J["jobs.json"] --> R["run_jobs.py — per job × language<br/>toggles: profile ← manifest ← job"]
+  R --> F["content/rms_fetch.py → RMS Supabase REST<br/>summaries | bites | journeys (by id)"]
+  F --> L["content/kitab_loader.py<br/>strip markdown · NFC-normalize · split sections"]
+  L --> P["prepare.py"]
+  P --> N["normalization/ · detect → cache → Gemini (misses) → offset-safe substitute"]
+  N --> PR["pronunciation/ · dictionary alias respellings"]
+  PR --> C["chunking/ · 250–900 char chunks at sentence / paragraph bounds"]
+  C --> D["direction/director.py · emotion tags + breath points (words unchanged)"]
+  D --> G["generation/ + overlap.py · v3 via tts/client.py<br/>lead-in + look-ahead, cut at real silence · net.py retries"]
+  G --> Q["qc/gate · Scribe (STT) + forced-align + speaker-similarity + join-pitch"]
+  Q --> X["auto-regenerate failing / drifting chunks (max 2)"]
+  X --> A["assembly/joiner.py · trim · pace/loudness · room-tone gaps · glue master · ACX"]
+  A --> O["output/&lt;content_type&gt;/&lt;lang&gt;/&lt;id&gt;_&lt;ddmmyyHHMMSS&gt;_&lt;slug&gt;.mp3"]
+
+  classDef toggle fill:#1f6feb22,stroke:#1f6feb,stroke-width:1px;
+  class N,PR,D,G,Q,X toggle;
 ```
 
-`[bracketed]` stages are the switchable checkpoints (see **Controlling the pipeline**).
-Everything intermediate lives in `work/<slug>/<lang>/`; only the final mp3 is copied to `output/`.
+Blue nodes are the switchable checkpoints (see **Controlling the pipeline**):
+`normalize` (N) · `pronunciation` (PR) · `direction` (D) · `overlap` (G) ·
+`qc_assess` (Q) · `qc_fix` (X). Everything intermediate lives in `work/<slug>/<lang>/`;
+only the final mp3 is copied to `output/`.
 
 ---
 
@@ -108,6 +105,26 @@ Each chunk's audio and every previous take are kept under `work/`, so you patch 
 .venv/bin/python cli.py fix    work/<slug>/<lang>/batch --at 2:15 7:40   # regenerate those chunks
 .venv/bin/python cli.py revert work/<slug>/<lang>/batch <chunk_id>       # restore a previous take
 .venv/bin/python cli.py qc     work/<slug>/<lang>/batch                  # re-assess only
+```
+
+## Try it (ad-hoc, without a manifest)
+
+Quick single-command checks against the same building blocks `run_jobs.py` uses:
+
+```bash
+# text normalization — detection only, no LLM call, no cache writes
+.venv/bin/python cli.py normalize "Dr. Smith owes \$42.50 as of 2024-01-01." --dry-run
+
+# real normalization (uses GEMINI_API_KEY from .env)
+.venv/bin/python cli.py normalize "बीस मिनट में ओमेगा-3 और 30% असर" --lang hi
+
+# prepare one title from a local content JSON (normalize + chunk) into work/, no audio
+.venv/bin/python cli.py prepare ../some-title.json --lang en hi
+
+# produce one prepared section end-to-end into work/<slug>/<lang>/<run-name>/
+.venv/bin/python cli.py produce work/<slug>/en --profile en --run-name test --section key_idea_1
+
+# (fetching a title from RMS by content_id is done via run_jobs.py, not the ad-hoc CLI)
 ```
 
 ---
