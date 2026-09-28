@@ -1,0 +1,26 @@
+{
+  "output_root": "output",
+
+  "steps": {
+    "normalize": false,
+    "pronunciation": false,
+    "direction": false,
+    "overlap": true,
+    "qc_assess": true,
+    "qc_fix": false,
+    "pause_extension": false
+  },
+
+  "jobs": [
+    {
+      "content_id": "SUM-737",
+      "content_type": "summary",
+      "languages": ["en", "hi"],
+      "voices": {
+        "en": {"name": "ancient-wisdom-speaker", "voice_id": "ancient_wisdom_speaker_english_indian"},
+        "hi": {"name": "Kitab Hindi Narrator v2", "voice_id": "ZXdqz9XCKNwPN16HnQWr"}
+      },
+      "steps": {"qc_fix": true}
+    }
+  ]
+}

@@ -1,0 +1,2687 @@
+{
+  "output_root": "output",
+  "steps": {
+    "normalize": true,
+    "pronunciation": true,
+    "direction": true,
+    "overlap": true,
+    "qc": true,
+    "pause_extension": false
+  },
+  "jobs": [
+    {
+      "content_id": "c989f8e07b9d7b23daccb35c",
+      "content_type": "summary",
+      "title": "Atomic Habits",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "cdabdfd94239b8b5ba0ab342",
+      "content_type": "summary",
+      "title": "Breath: The New Science of a Lost Art",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-818",
+      "content_type": "summary",
+      "title": "Truth Eternal – Ram Chandra (Lalaji)",
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        },
+        "hi": {
+          "name": "(profile default hi)",
+          "voice_id": "ZXdqz9XCKNwPN16HnQWr"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-563",
+      "content_type": "summary",
+      "title": "Breathwork",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Monika Sogam",
+          "voice_id": "2zRM7PkgwBPiau2jvVXc"
+        }
+      }
+    },
+    {
+      "content_id": "7b8dac28e399ec2be8d181de",
+      "content_type": "summary",
+      "title": "Attention Span",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "99c1fbb28f6cef7684e3832e",
+      "content_type": "summary",
+      "title": "As a Man Thinketh",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-756",
+      "content_type": "summary",
+      "title": "Big Magic",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Maya J",
+          "voice_id": "4O1sYUnmtThcBoSBrri7"
+        }
+      }
+    },
+    {
+      "content_id": "f10867f03ab0e2c362b34501",
+      "content_type": "summary",
+      "title": "Drive: The Surprising Truth About What Motivates Us",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "9a23b2da5111ed31f263714d",
+      "content_type": "summary",
+      "title": "Anger Management for Everyone: Ten Proven Strategies to Help You Control Anger and Live a Happier Life",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-819",
+      "content_type": "summary",
+      "title": "Complete Works of Ram Chandra of Fatehgarh - Vol. 2 – Ram Chandra (Lalaji)",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "91bb92b28da15b7b394e4589",
+      "content_type": "summary",
+      "title": "Complete Works of Ram Chandra vol. 3",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-285",
+      "content_type": "summary",
+      "title": "Business Model Generation",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Monika Sogam",
+          "voice_id": "2zRM7PkgwBPiau2jvVXc"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-629",
+      "content_type": "summary",
+      "title": "Light on Prāṇāyāma",
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        },
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "a8c60e6fda2546b5c45c4c41",
+      "content_type": "summary",
+      "title": "How Not to Die",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "d2a3fe6d90063e442d24b96c",
+      "content_type": "summary",
+      "title": "Complete Works of Ram Chandra vol. 6",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "8aa4b1c5bb684a6269116f6b",
+      "content_type": "summary",
+      "title": "Deep Work",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "8128911960a712536999f96a",
+      "content_type": "summary",
+      "title": "Man’s Search for Meaning",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-779",
+      "content_type": "summary",
+      "title": "An Enquiry Concerning Human Understanding",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-186",
+      "content_type": "summary",
+      "title": "Attention Management",
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "voices": {
+        "en": {
+          "name": "Monika Sogam",
+          "voice_id": "2zRM7PkgwBPiau2jvVXc"
+        },
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-655",
+      "content_type": "summary",
+      "title": "A Short History of Nearly Everything",
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "voices": {
+        "en": {
+          "name": "Maya J",
+          "voice_id": "4O1sYUnmtThcBoSBrri7"
+        },
+        "hi": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-205",
+      "content_type": "summary",
+      "title": "Algorithms to Live By",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Monika Sogam",
+          "voice_id": "2zRM7PkgwBPiau2jvVXc"
+        }
+      }
+    },
+    {
+      "content_id": "d649e7efa224775572f8c042",
+      "content_type": "summary",
+      "title": "How We Learn",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-228",
+      "content_type": "summary",
+      "title": "Made to Stick",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Maya J",
+          "voice_id": "4O1sYUnmtThcBoSBrri7"
+        }
+      }
+    },
+    {
+      "content_id": "1b6927d3410a3b84efef5ac0",
+      "content_type": "summary",
+      "title": "Consciousness In Management vol. 1",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-214",
+      "content_type": "summary",
+      "title": "Making Work Visible",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Monika Sogam",
+          "voice_id": "2zRM7PkgwBPiau2jvVXc"
+        }
+      }
+    },
+    {
+      "content_id": "57e8bfc878ca2237a3a4f0a1",
+      "content_type": "summary",
+      "title": "Burnout: The Secret to Unlocking the Stress Cycle",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-457",
+      "content_type": "summary",
+      "title": "Comfortable with Uncertainty",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-599",
+      "content_type": "summary",
+      "title": "Breath by Breath",
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        },
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-493",
+      "content_type": "summary",
+      "title": "Keep Going",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Maya J",
+          "voice_id": "4O1sYUnmtThcBoSBrri7"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-604",
+      "content_type": "summary",
+      "title": "Buddha’s Brain",
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        },
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-371",
+      "content_type": "summary",
+      "title": "Conversationally Speaking",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Monika Sogam",
+          "voice_id": "2zRM7PkgwBPiau2jvVXc"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-375",
+      "content_type": "summary",
+      "title": "Community: The Structure of Belonging",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "d35a98028cca23c2a745a0bb",
+      "content_type": "summary",
+      "title": "Influence",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-609",
+      "content_type": "summary",
+      "title": "Mindfulness of Breathing",
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        },
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-373",
+      "content_type": "summary",
+      "title": "Bowling Alone (Updated)",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-278",
+      "content_type": "summary",
+      "title": "Blue Ocean Strategy (Expanded)",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-714",
+      "content_type": "summary",
+      "title": "How to Talk So Kids Will Listen & Listen So Kids Will Talk",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Monika Sogam",
+          "voice_id": "2zRM7PkgwBPiau2jvVXc"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-557",
+      "content_type": "summary",
+      "title": "The Power of When",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-591",
+      "content_type": "summary",
+      "title": "Do the Work",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    },
+    {
+      "content_id": "6380f64e5f79363ed5ba0e15",
+      "content_type": "summary",
+      "title": "Consciousness In Management vol. 2",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-728",
+      "content_type": "summary",
+      "title": "Hunt, Gather, Parent",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Maya J",
+          "voice_id": "4O1sYUnmtThcBoSBrri7"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-606",
+      "content_type": "summary",
+      "title": "The Way of Effortless Mindfulness",
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        },
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "69ec96a0ceeda296b97f5b09",
+      "content_type": "summary",
+      "title": "Buddha's Brain",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-651",
+      "content_type": "summary",
+      "title": "Calling Bullshit",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "be4467a611fb8661b3e5c051",
+      "content_type": "summary",
+      "title": "Ecce Homo",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-198",
+      "content_type": "summary",
+      "title": "Eat That Frog!",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-210",
+      "content_type": "summary",
+      "title": "Work the System",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-774",
+      "content_type": "summary",
+      "title": "Drawing on the Right Side of the Brain",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Monika Sogam",
+          "voice_id": "2zRM7PkgwBPiau2jvVXc"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-438",
+      "content_type": "summary",
+      "title": "The Wise Heart",
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        },
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-669",
+      "content_type": "summary",
+      "title": "The Demon-Haunted World",
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        },
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-572",
+      "content_type": "summary",
+      "title": "High Performance Habits",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-237",
+      "content_type": "summary",
+      "title": "Everybody Writes (2nd ed.)",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Monika Sogam",
+          "voice_id": "2zRM7PkgwBPiau2jvVXc"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-504",
+      "content_type": "summary",
+      "title": "Better Than Before",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Maya J",
+          "voice_id": "4O1sYUnmtThcBoSBrri7"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-502",
+      "content_type": "summary",
+      "title": "Design Your Work Life",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-142",
+      "content_type": "summary",
+      "title": "Emotional Agility",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-125",
+      "content_type": "summary",
+      "title": "Quiet",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-803",
+      "content_type": "summary",
+      "title": "After Virtue",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Rudra",
+          "voice_id": "tTZ0TVc9Q1bbWngiduLK"
+        }
+      }
+    },
+    {
+      "content_id": "02fd353c15e2090a8d892d94",
+      "content_type": "summary",
+      "title": "Mindset: The New Psychology of Success",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "f56ada1304073cd38c207ae8",
+      "content_type": "summary",
+      "title": "Grit: The Power of Passion and Perseverance",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-279",
+      "content_type": "summary",
+      "title": "Blue Ocean Shift",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Monika Sogam",
+          "voice_id": "2zRM7PkgwBPiau2jvVXc"
+        }
+      }
+    },
+    {
+      "content_id": "48b88d565dd40b745de573db",
+      "content_type": "summary",
+      "title": "Chatter: The Voice in Our Head and How to Harness It",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-333",
+      "content_type": "summary",
+      "title": "The Happiness of Pursuit",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-257",
+      "content_type": "summary",
+      "title": "Messages: The Communication Skills Book",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Monika Sogam",
+          "voice_id": "2zRM7PkgwBPiau2jvVXc"
+        }
+      }
+    },
+    {
+      "content_id": "61ce251e77b1af9e970fcc58",
+      "content_type": "summary",
+      "title": "How We Grow Up",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-266",
+      "content_type": "summary",
+      "title": "Scrum",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-559",
+      "content_type": "summary",
+      "title": "An Elegant Defense",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Rudra",
+          "voice_id": "tTZ0TVc9Q1bbWngiduLK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-540",
+      "content_type": "summary",
+      "title": "Eat to Beat Disease",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-423",
+      "content_type": "summary",
+      "title": "Wherever You Go, There You Are — Jon Kabat",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-582",
+      "content_type": "summary",
+      "title": "Black Box Thinking",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Rudra",
+          "voice_id": "tTZ0TVc9Q1bbWngiduLK"
+        }
+      }
+    },
+    {
+      "content_id": "014e7a5e7a97a09223faf550",
+      "content_type": "summary",
+      "title": "Get Smart",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-197",
+      "content_type": "summary",
+      "title": "High Output Management",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "2d4705018e4ff6e1a9891b42",
+      "content_type": "summary",
+      "title": "Emotional Intelligence: Why It Can Matter More Than IQ",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-435",
+      "content_type": "summary",
+      "title": "Radical Acceptance",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-687",
+      "content_type": "summary",
+      "title": "The Book of Joy",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-322",
+      "content_type": "summary",
+      "title": "Ikigai",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-737",
+      "content_type": "summary",
+      "title": "Your Brain on Nature",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-171",
+      "content_type": "summary",
+      "title": "Personal Kanban",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-588",
+      "content_type": "summary",
+      "title": "Unlimited Power",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-509",
+      "content_type": "summary",
+      "title": "Barking Up the Wrong Tree",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    },
+    {
+      "content_id": "49b1f29c5e66631d91505262",
+      "content_type": "summary",
+      "title": "Complete Works of Ram Chandra vol. 4",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-225",
+      "content_type": "summary",
+      "title": "Crucial Conversations (3rd ed.)",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-523",
+      "content_type": "summary",
+      "title": "The Telomere Effect",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-676",
+      "content_type": "summary",
+      "title": "Autobiography of a Yogi",
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        },
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-766",
+      "content_type": "summary",
+      "title": "Die Empty",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-730",
+      "content_type": "summary",
+      "title": "How to Stop Losing Your Sh*t with Your Kids",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Monika Sogam",
+          "voice_id": "2zRM7PkgwBPiau2jvVXc"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-700",
+      "content_type": "summary",
+      "title": "Living with the Himalayan Masters",
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        },
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-404",
+      "content_type": "summary",
+      "title": "First, Break All the Rules",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-388",
+      "content_type": "summary",
+      "title": "Great by Choice",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-732",
+      "content_type": "summary",
+      "title": "Last Child in the Woods",
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        },
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "0655db7246b30f030fcd7788",
+      "content_type": "summary",
+      "title": "A Liberated Mind",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "(profile default en)",
+          "voice_id": "ancient_wisdom_speaker_english_indian"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-519",
+      "content_type": "summary",
+      "title": "Purple Cow (Revised)",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-129",
+      "content_type": "summary",
+      "title": "Decisive",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-314",
+      "content_type": "summary",
+      "title": "Firms of Endearment",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Rudra",
+          "voice_id": "tTZ0TVc9Q1bbWngiduLK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-487",
+      "content_type": "summary",
+      "title": "10x Is Easier Than 2x",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-675",
+      "content_type": "summary",
+      "title": "Be As You Are",
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        },
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-514",
+      "content_type": "summary",
+      "title": "The Motivation Myth",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-354",
+      "content_type": "summary",
+      "title": "Boundary Boss",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Monika Sogam",
+          "voice_id": "2zRM7PkgwBPiau2jvVXc"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-552",
+      "content_type": "summary",
+      "title": "The Vagina Bible",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Monika Sogam",
+          "voice_id": "2zRM7PkgwBPiau2jvVXc"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-358",
+      "content_type": "summary",
+      "title": "Deeper Dating",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-726",
+      "content_type": "summary",
+      "title": "The Awakened Family",
+      "languages": [
+        "en"
+      ],
+      "voices": {
+        "en": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-598",
+      "content_type": "summary",
+      "title": "The Three Pillars of Zen",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-673",
+      "content_type": "summary",
+      "title": "The Yoga Sūtras of Patañjali (trans. Edwin Bryant)",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "3ed75f7ff7027c6b702b53ed",
+      "content_type": "summary",
+      "title": "Meditation",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "(profile default hi)",
+          "voice_id": "ZXdqz9XCKNwPN16HnQWr"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-613",
+      "content_type": "summary",
+      "title": "The Zen Teachings of Master Linji",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-699",
+      "content_type": "summary",
+      "title": "The Gospel of Sri Ramakrishna",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-665",
+      "content_type": "summary",
+      "title": "The Fabric of Reality",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-696",
+      "content_type": "summary",
+      "title": "The Perennial Philosophy",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "8cec5935753d4a91a0af9f79",
+      "content_type": "summary",
+      "title": "Complete Works of Ram Chandra vol. 2",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "(profile default hi)",
+          "voice_id": "ZXdqz9XCKNwPN16HnQWr"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-630",
+      "content_type": "summary",
+      "title": "The Science of Prāṇāyāma",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "79a3b42a4d53759e434a1a13",
+      "content_type": "summary",
+      "title": "Complete Works of Ram Chandra vol. 5",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "(profile default hi)",
+          "voice_id": "ZXdqz9XCKNwPN16HnQWr"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-672",
+      "content_type": "summary",
+      "title": "The Upanishads (trans. Eknath Easwaran)",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-218",
+      "content_type": "summary",
+      "title": "The Shallows",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-671",
+      "content_type": "summary",
+      "title": "The Beginning of Infinity",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-391",
+      "content_type": "summary",
+      "title": "Multipliers (Revised)",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-628",
+      "content_type": "summary",
+      "title": "The Heart of Yoga",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-682",
+      "content_type": "summary",
+      "title": "Dark Night of the Soul",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-740",
+      "content_type": "summary",
+      "title": "Vitamin N",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-617",
+      "content_type": "summary",
+      "title": "Meditation in Action",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-778",
+      "content_type": "summary",
+      "title": "Meditations on First Philosophy",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-437",
+      "content_type": "summary",
+      "title": "A Path with Heart",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-627",
+      "content_type": "summary",
+      "title": "The Open-Focus Brain",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-743",
+      "content_type": "summary",
+      "title": "The Living Mountain",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "437ee2da-9695-4fd1-ac0a-11d7b3b131f2",
+      "content_type": "summary",
+      "title": "The Complete Works of Ram Chandra",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "(profile default hi)",
+          "voice_id": "ZXdqz9XCKNwPN16HnQWr"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-408",
+      "content_type": "summary",
+      "title": "No Rules Rules",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-664",
+      "content_type": "summary",
+      "title": "Enlightenment Now",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-731",
+      "content_type": "summary",
+      "title": "The Nature Fix",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-601",
+      "content_type": "summary",
+      "title": "Mastering the Core Teachings of the Buddha (2nd ed.)",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-415",
+      "content_type": "summary",
+      "title": "Accelerate",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-608",
+      "content_type": "summary",
+      "title": "Satipaṭṭhāna: The Direct Path to Realization",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-686",
+      "content_type": "summary",
+      "title": "The Way of Zen",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-135",
+      "content_type": "summary",
+      "title": "The Extended Mind",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-447",
+      "content_type": "summary",
+      "title": "The Attention Revolution",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-166",
+      "content_type": "summary",
+      "title": "Hyperfocus",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-430",
+      "content_type": "summary",
+      "title": "Peak Mind",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-618",
+      "content_type": "summary",
+      "title": "Cutting Through Spiritual Materialism",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "d38bba3601a81c32fd02f0c9",
+      "content_type": "summary",
+      "title": "Designing Destiny",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "(profile default hi)",
+          "voice_id": "ZXdqz9XCKNwPN16HnQWr"
+        }
+      }
+    },
+    {
+      "content_id": "158e31665531e5f28eea2c90",
+      "content_type": "summary",
+      "title": "The Autobiography of Ramchandra",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "(profile default hi)",
+          "voice_id": "ZXdqz9XCKNwPN16HnQWr"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-616",
+      "content_type": "summary",
+      "title": "The Relaxed Mind — Dzigar Kongtrul",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-776",
+      "content_type": "summary",
+      "title": "Republic",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Rudra",
+          "voice_id": "tTZ0TVc9Q1bbWngiduLK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-479",
+      "content_type": "summary",
+      "title": "Ego Is the Enemy",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-741",
+      "content_type": "summary",
+      "title": "Braiding Sweetgrass",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    },
+    {
+      "content_id": "d3dd99f3976e3d5af5aa9afb",
+      "content_type": "summary",
+      "title": "In the Company of Babuji",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "(profile default hi)",
+          "voice_id": "ZXdqz9XCKNwPN16HnQWr"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-483",
+      "content_type": "summary",
+      "title": "Think Like a Monk",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "c47c7806-0f43-4e18-aff8-d0abfb115aa5",
+      "content_type": "summary",
+      "title": "Spiritual Anatomy",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "(profile default hi)",
+          "voice_id": "ZXdqz9XCKNwPN16HnQWr"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-390",
+      "content_type": "summary",
+      "title": "Leadership Is Language",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-167",
+      "content_type": "summary",
+      "title": "A World Without Email",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-810",
+      "content_type": "summary",
+      "title": "Essays",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "7128ce12-f52f-4b44-90aa-9b6243cefd25",
+      "content_type": "summary",
+      "title": "The Heartfulness Way",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "(profile default hi)",
+          "voice_id": "ZXdqz9XCKNwPN16HnQWr"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-688",
+      "content_type": "summary",
+      "title": "What the Buddha Taught",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-196",
+      "content_type": "summary",
+      "title": "The Effective Executive",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-781",
+      "content_type": "summary",
+      "title": "The Problems of Philosophy",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-667",
+      "content_type": "summary",
+      "title": "The Skeptics’ Guide to the Universe",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-104",
+      "content_type": "summary",
+      "title": "The Righteous Mind",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-146",
+      "content_type": "summary",
+      "title": "The Invisible Gorilla",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-614",
+      "content_type": "summary",
+      "title": "The Joy of Living",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-799",
+      "content_type": "summary",
+      "title": "Self-Reliance",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-133",
+      "content_type": "summary",
+      "title": "Range",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-744",
+      "content_type": "summary",
+      "title": "The Spell of the Sensuous",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-681",
+      "content_type": "summary",
+      "title": "The Interior Castle",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-144",
+      "content_type": "summary",
+      "title": "The Happiness Hypothesis",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "6bce59d3ce47a44e5ec38e49",
+      "content_type": "summary",
+      "title": "Wisdom to Wonder",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "(profile default hi)",
+          "voice_id": "ZXdqz9XCKNwPN16HnQWr"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-308",
+      "content_type": "summary",
+      "title": "The Great Work of Your Life",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-701",
+      "content_type": "summary",
+      "title": "The Sufi Path of Love: The Spiritual Teachings of Rumi",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-169",
+      "content_type": "summary",
+      "title": "The Organized Mind",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-670",
+      "content_type": "summary",
+      "title": "Cosmos",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-680",
+      "content_type": "summary",
+      "title": "The Cloud of Unknowing (trans. Carmen Acevedo Butcher)",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-110",
+      "content_type": "summary",
+      "title": "The Social Animal",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-762",
+      "content_type": "summary",
+      "title": "Creativity",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-255",
+      "content_type": "summary",
+      "title": "Pre-Suasion",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-367",
+      "content_type": "summary",
+      "title": "Belonging",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-695",
+      "content_type": "summary",
+      "title": "Be Here Now",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-310",
+      "content_type": "summary",
+      "title": "The Second Mountain",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-162",
+      "content_type": "summary",
+      "title": "The Social Leap",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-394",
+      "content_type": "summary",
+      "title": "The Ideal Team Player",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "cd868bfd2a664058d9182c97",
+      "content_type": "summary",
+      "title": "Indistractable",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "(profile default hi)",
+          "voice_id": "ZXdqz9XCKNwPN16HnQWr"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-612",
+      "content_type": "summary",
+      "title": "Zen Training",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-735",
+      "content_type": "summary",
+      "title": "The Forest Unseen",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-782",
+      "content_type": "summary",
+      "title": "Pragmatism",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-440",
+      "content_type": "summary",
+      "title": "Real Happiness (10th Anniversary)",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-264",
+      "content_type": "summary",
+      "title": "Hoshin Kanri for the Lean Enterprise",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-661",
+      "content_type": "summary",
+      "title": "Gene Machine",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-602",
+      "content_type": "summary",
+      "title": "The Science of Enlightenment",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-411",
+      "content_type": "summary",
+      "title": "An Everyone Culture",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-660",
+      "content_type": "summary",
+      "title": "Why Buddhism Is True",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Meghana",
+          "voice_id": "CIxncvPntAAizGFhR6oP"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-425",
+      "content_type": "summary",
+      "title": "Mindfulness: A Practical Guide to Awakening",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Anchor-V1",
+          "voice_id": "qfXNhZBEBErTDSkQcvkK"
+        }
+      }
+    },
+    {
+      "content_id": "SUM-159",
+      "content_type": "summary",
+      "title": "The Happiness Advantage",
+      "languages": [
+        "hi"
+      ],
+      "voices": {
+        "hi": {
+          "name": "Coach - V1",
+          "voice_id": "9Jasgj5N07i7KNsjOqql"
+        }
+      }
+    }
+  ]
+}
