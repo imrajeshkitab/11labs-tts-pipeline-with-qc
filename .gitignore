@@ -24,5 +24,10 @@ data/test_v3_timestamps/
 # local working manifest (keep jobs.example.json + jobs.kitab-samples.json)
 jobs.json
 
+# scratch / personal — drop anything here and it's never tracked (no new rules needed)
+local/
+scratch/
+_local/
+
 # OS
 .DS_Store
